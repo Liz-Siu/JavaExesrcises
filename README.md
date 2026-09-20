@@ -193,7 +193,7 @@ calcular las reglas de préstamo de cada tipo de usuario.
 - [x] Cada clase pública está en su propio archivo.
 - [x] Los métodos devuelven los tipos y valores esperados.
 - [x] Se validan valores nulos, vacíos, repetidos o inválidos cuando aplica.
-- [ ] Las nuevas prácticas tienen sus propias pruebas.
+- [x] Las nuevas prácticas tienen sus propias pruebas.
 - [x] El programa termina mostrando `true`.
 
 ## Soluciones de referencia
